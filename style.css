@@ -52,7 +52,7 @@ a {
 
 img {
     flex-shrink: 1;
-    filter: drop-shadow(10px 10px 10px #242424);
+    filter: drop-shadow(10px 10px 10px #010101);
 }
 
 .prev,
