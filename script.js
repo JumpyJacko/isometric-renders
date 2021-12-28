@@ -49,6 +49,9 @@ function changeBackgroundColour() {
         case 5:
             document.body.style.background = "#6E855F";
             break;
+        case 6:
+            document.body.style.background = "#0E1015";
+            break;
         default:
             document.body.style.background = "grey";
     }
